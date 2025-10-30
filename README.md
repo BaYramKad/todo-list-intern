@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+Чтобы запустить проект введите следующие команды в терминал
 
-
-https://todo-list-murex-theta.vercel.app/
+git clone https://github.com/BaYramKad/todo-list-intern.git
+cd todo-list-intern
+npm install
+npm run start
