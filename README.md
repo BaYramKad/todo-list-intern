@@ -1,6 +1,6 @@
 Чтобы запустить проект введите следующие команды в терминал
 
-git clone https://github.com/BaYramKad/todo-list-intern.git
-cd todo-list-intern
-npm install
-npm run start
+1. git clone https://github.com/BaYramKad/todo-list-intern.git
+2. cd todo-list-intern
+3. npm install
+4. npm run start
